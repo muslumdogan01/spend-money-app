@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "title": "Sakız",
+        "price": 0.5,
+        "img": "https://cdn.cimri.io/market/260x260/first-sensations-27-gr-karpuz-aromali-sakiz-_242842.jpg"
+    },
+    {
+        "id": 2,
+        "title": "Kola",
+        "price": 6,
+        "img": "https://reimg-carrefour.mncdn.com/mnresize/600/600/productimage/30094506/30094506_0_MC/8796932243506_1499977938323.jpg"
+    },
+    {
+        "id": 3,
+        "title": "Araba",
+        "price": 70000,
+        "img": "https://www.ilgincgercek.com/wp-content/uploads/2018/05/ilginc-araba.jpg"
+    },
+    {
+        "id": 4,
+        "title": "Ayakkabı",
+        "price": 400,
+        "img": "https://cdn-ayae.akinon.net/products/2019/09/16/49846/090c6101-d824-40c4-99f2-d21d74234243_size1400x1400_quality90_cropCenter.jpg"
+    },
+    {
+        "id": 5,
+        "title": "Cips",
+        "price": 0.2,
+        "img": "https://img2.pngindir.com/20180802/gvi/kisspng-potato-chip-ruffles-doritos-lay-s-brand-cipsler-kap%C4%B1%C5%9F%C4%B1yor-the-white-tree-5b62d609a97488.5604512515332039776941.jpg"
+    },
+    {
+        "id": 6,
+        "title": "Bira",
+        "price": 20,
+        "img": "https://img2.pngindir.com/20171127/1ed/beer-bottle-png-clip-art-5a1c5c0d646eb4.7161526415118080134114.jpg"
+    },
+    {
+        "id": 7,
+        "title": "Viski",
+        "price": 187,
+        "img": "https://pngimg.com/uploads/beer/beer_PNG2329.png"
+    }
+]
